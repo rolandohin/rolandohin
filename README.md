@@ -38,19 +38,22 @@ Je trie et j'investigue une alerte de bout en bout : recherche d'IOC et corréla
 **SIEM & Détection**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3B82F6?style=flat&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C00?style=flat&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma_Rules-1F6FEB?style=flat&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-00599C?style=flat&logoColor=white)
 
 **Réseau & Forensique**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EE3124?style=flat&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EE3124?style=flat&logo=suricata&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-4B275F?style=flat&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-2C7BB6?style=flat&logoColor=white)
 
 **Systèmes & Scripting**
 
-![Skills](https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,git&perline=6)
+![Skills](https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,cpp,rust,git&perline=8)
 
 ---
 
