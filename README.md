@@ -1,7 +1,7 @@
 <h1 align="center">Yves-Roland OHIN</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=1200&color=00B4D8&center=true&vCenter=true&width=880&lines=Threat+detection+is+not+a+tool.+It's+a+mindset.;SOC+Analyst+%C2%B7+Blue+Team+%C2%B7+DFIR;From+alert+triage+to+incident+response+%E2%80%94+end+to+end;BTL1+Certified+%C2%B7+Splunk+%C2%B7+Sentinel+%C2%B7+MITRE+ATT%26CK;Open+to+alternance+%E2%80%94+September+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=1200&color=00B4D8&center=true&vCenter=true&width=880&lines=Threat+detection+is+not+a+tool.+It's+a+mindset.;SOC+Analyst+%C2%B7+Blue+Team+%C2%B7+DFIR;From+alert+triage+to+incident+response+%E2%80%94+end+to+end;BTL1+Certified+%C2%B7+Splunk+%C2%B7+Sentinel+%C2%B7+Elastic+%C2%B7+MITRE+ATT%26CK;Open+to+alternance+%E2%80%94+September+2026" alt="Typing SVG" />
 </p>
 
 <p align="center">
