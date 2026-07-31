@@ -58,6 +58,7 @@ En recherche d'une <b>alternance dès septembre 2026</b>
   <img src="https://img.shields.io/badge/Suricata-EE3124?style=flat-square&logo=suricata&logoColor=white"/>
   <img src="https://img.shields.io/badge/Volatility-4B275F?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autopsy-2C7BB6?style=flat-square&logoColor=white"/>
+  <img src="autopsy.png" height="45" alt="Autopsy" height="45" alt="Kibana"/>
 </p>
 
 <p align="center"><b>Systèmes &amp; Scripting</b></p>
