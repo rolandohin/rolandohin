@@ -94,3 +94,6 @@ Analyse de captures RAM compromises : processus malveillants, connexion C2 via W
 ---
 
 <p align="center"><sub>💡 « La meilleure défense, c'est de comprendre l'attaque. »</sub></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%C2%AB+La+meilleure+d%C3%A9fense%2C+c'est+de+comprendre+l'attaque.+%C2%BB" alt="Typing SVG" />
+</p>
