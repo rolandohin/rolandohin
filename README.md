@@ -44,6 +44,13 @@ En recherche d'une <b>alternance dès septembre 2026</b>
 
 <p align="center"><b>SIEM &amp; Détection</b></p>
 <p align="center">
+  <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/splunk.svg" height="45" alt="Splunk"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sentinel.svg" height="45" alt="Sentinel"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" height="45" alt="Elastic"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kibana.svg" height="45" alt="Kibana"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" height="45" alt="Wazuh"/>
+</p>
   <img src="https://img.shields.io/badge/Splunk-00B4D8?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-00B4D8?style=flat-square&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elastic-00B4D8?style=flat-square&logo=elastic&logoColor=white"/>
