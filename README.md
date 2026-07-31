@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=SOC+Analyst+%7C+Blue+Team+Defender;BTL1+Certified+%E2%80%94+Splunk%2C+Sentinel%2C+Elastic;DFIR+%7C+Threat+Hunting+%7C+MITRE+ATT%26CK;Seeking+alternance+%E2%80%94+September+2026" alt="Typing SVG" />
-</p>
+
 
 <h1 align="center">Hi, I'm Yves-Roland OHIN 👋</h1>
 <h3 align="center">🛡️ Analyste SOC / Blue Team — certifié BTL1</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=49%2C608+events+analyzed.+1+ransomware+caught.;SOC+Analyst+%C2%B7+Blue+Team+Defender;BTL1+Certified+%C2%B7+Splunk+%C2%B7+MITRE+ATT%26CK;Currently+training%3A+CDSA+%C2%B7+Microsoft+Sentinel;Seeking+alternance+%E2%80%94+September+2026" alt="Typing SVG" />
+</p>
 
 <p align="center">
 Je trie et j'investigue une alerte de bout en bout : recherche d'IOC et corrélation d'événements sous <b>Splunk</b>, analyse de PCAP (<b>Wireshark</b>, <b>Suricata</b>), forensique disque et mémoire (<b>Autopsy</b>, <b>Volatility</b>), reconstruction de timeline d'attaque et mapping <b>MITRE ATT&CK</b> avec rédaction de règles <b>Sigma</b>.
@@ -32,8 +34,9 @@ Je trie et j'investigue une alerte de bout en bout : recherche d'IOC et corréla
 |---|---|:---:|
 | 🔵 **Blue Team Level 1 (BTL1)** | Security Blue Team | ✅ Obtenue |
 | 🎓 **Google Cybersecurity Certificate** | Google | ✅ Obtenue |
-| 🟦 **SC-200** — Security Operations Analyst | Microsoft | 📚 En cours |
 | 📦 **CDSA** — Certified Defensive Security Analyst | Hack The Box | 📚 En cours |
+| 🟦 **SC-200** — Security Operations Analyst | Microsoft | 📚 En cours |
+
 
 ---
 
