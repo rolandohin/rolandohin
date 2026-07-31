@@ -21,8 +21,9 @@ En recherche d'une <b>alternance dès septembre 2026</b>
 </p>
 
 ---
-
+<p align="center">
 <h3 align="center">Certifications</h3>
+</p>
 
 <div align="center">
 
