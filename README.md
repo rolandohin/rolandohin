@@ -16,10 +16,7 @@ En recherche d'une <b>alternance dès septembre 2026</b>
 
 <p align="center">
   <a href="https://linkedin.com/in/yvesrolandohin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yvesrolandohin2023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="45" alt="linkedin/>
   </a>
 </p>
 
@@ -48,7 +45,7 @@ En recherche d'une <b>alternance dès septembre 2026</b>
   <img src="sentinel.png" height="45" alt="sentinel" height="45" alt="Sentinel"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" height="45" alt="Elastic"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kibana.svg" height="45" alt="Kibana"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" height="45" alt="Wazuh"/>&nbsp;&nbsp;&nbsp;
+  <img src="wazuh.png" height="45" alt="sentinel" height="45" alt="Sentinel"/>&nbsp;&nbsp;&nbsp;
   <img src="sigma.png" height="45" alt="sigma" height="60" alt="Sigma"/>
 </p>
 
