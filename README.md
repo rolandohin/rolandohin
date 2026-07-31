@@ -45,21 +45,21 @@ En recherche d'une <b>alternance dès septembre 2026</b>
 <p align="center"><b>SIEM &amp; Détection</b></p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/splunk.svg" height="45" alt="Splunk"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-entra-id.svg" height="45" alt="Splunk"/>&nbsp;&nbsp;&nbsp;
-  <img src="sentinel.png" height="45" alt="Autopsy" height="45" alt="Kibana"/>
+  <img src="sentinel.png" height="45" alt="sentinel" height="45" alt="Sentinel"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" height="45" alt="Elastic"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kibana.svg" height="45" alt="Kibana"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" height="45" alt="Wazuh"/>
+  <img src="sigma.png" height="45" alt="sigma" height="45" alt="Sigma"/>
 </p>
 
 
 <p align="center"><b>Réseau &amp; Forensique</b></p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" height="45" alt="Kibana"/>
-  <img src="https://img.shields.io/badge/Suricata-EE3124?style=flat-square&logo=suricata&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Volatility-4B275F?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autopsy-2C7BB6?style=flat-square&logoColor=white"/>
-  <img src="autopsy.png" height="45" alt="Autopsy" height="45" alt="Kibana"/>
+  <img src="Suricata.png" height="45" alt="suricata" height="45" alt="suricata"/>
+  <img src="volatility.png" height="45" alt="volatility" height="45" alt="Volatility"/>
+  <img src="autopsy.png" height="45" alt="Autopsy" height="45" alt="autopsy"/>
+  <img src="kapa.png" height="45" alt="Autopsy" height="45" alt="Kibana"/>
 </p>
 
 <p align="center"><b>Systèmes &amp; Scripting</b></p>
