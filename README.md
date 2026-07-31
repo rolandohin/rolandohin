@@ -45,20 +45,20 @@ En recherche d'une <b>alternance dès septembre 2026</b>
 <p align="center"><b>SIEM &amp; Détection</b></p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/splunk.svg" height="45" alt="Splunk"/>&nbsp;&nbsp;&nbsp;
-  <img src="sentinel.png" height="45" alt="sentinel" height="45" alt="Sentinel"/>
+  <img src="sentinel.png" height="45" alt="sentinel" height="45" alt="Sentinel"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" height="45" alt="Elastic"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kibana.svg" height="45" alt="Kibana"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" height="45" alt="Wazuh"/>
-  <img src="sigma.png" height="45" alt="sigma" height="50" alt="Sigma"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" height="45" alt="Wazuh"/>&nbsp;&nbsp;&nbsp;
+  <img src="sigma.png" height="45" alt="sigma" height="60" alt="Sigma"/>
 </p>
 
 
 <p align="center"><b>Réseau &amp; Forensique</b></p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" height="45" alt="Kibana"/>
-  <img src="Suricata.png" height="45" alt="suricata" height="45" alt="suricata"/>
-  <img src="volatility.png" height="45" alt="volatility" height="45" alt="Volatility"/>
-  <img src="autopsy.png" height="45" alt="Autopsy" height="45" alt="autopsy"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" height="45" alt="Kibana"/>&nbsp;&nbsp;&nbsp;
+  <img src="Suricata.png" height="45" alt="suricata" height="45" alt="suricata"/>&nbsp;&nbsp;&nbsp;
+  <img src="volatility.png" height="45" alt="volatility" height="45" alt="Volatility"/>&nbsp;&nbsp;&nbsp;
+  <img src="autopsy.png" height="45" alt="Autopsy" height="45" alt="autopsy"/>&nbsp;&nbsp;&nbsp;
   <img src="kapa.png" height="45" alt="Autopsy" height="45" alt="Kibana"/>
 </p>
 
