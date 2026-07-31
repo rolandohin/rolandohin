@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-Je trie et j'investigue une alerte de bout en bout : recherche d'IOC et corrélation d'événements sous <b>Splunk</b>, analyse de PCAP (<b>Wireshark</b>, <b>Suricata</b>), forensique disque et mémoire (<b>Autopsy</b>, <b>Volatility</b>), reconstruction de timeline d'attaque et mapping <b>MITRE ATT&CK</b> avec rédaction de règles <b>Sigma</b>.
+Analyste SOC orienté détection et réponse : je prends une alerte en charge de bout en bout — triage, recherche d'IOC et corrélation multi-sources sous <b>Splunk</b>, <b>Microsoft Sentinel</b> et <b>Elastic</b>, analyse réseau de PCAP (<b>Wireshark</b>, <b>Suricata</b>), forensique disque et mémoire (<b>Autopsy</b>, <b>Volatility</b>), puis reconstruction de la timeline d'attaque, mapping <b>MITRE ATT&CK</b> et rédaction de règles de détection <b>Sigma</b> pour éviter la récidive.
 </p>
 
 <p align="center">
