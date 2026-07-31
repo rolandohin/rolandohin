@@ -18,6 +18,14 @@ En recherche d'une <b>alternance dès septembre 2026</b>
   <a href="https://linkedin.com/in/yvesrolandohin">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="45" alt="linkedin/>
   </a>
+      <p align="center">
+  <a href="https://linkedin.com/in/yvesrolandohin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yvesrolandohin2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 </p>
 
 ---
