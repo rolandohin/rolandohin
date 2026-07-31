@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Analyste SOC orienté détection et réponse. De la qualification d'une alerte à sa résolution : recherche d'IOC et corrélation multi-sources sous <b>Splunk</b>, <b>Microsoft Sentinel</b> et <b>Elastic</b>, analyse réseau de PCAP (<b>Wireshark</b>, <b>Suricata</b>), forensique disque et mémoire (<b>Autopsy</b>, <b>Volatility</b>), reconstruction de la timeline d'attaque, mapping <b>MITRE ATT&CK</b> et rédaction de règles de détection <b>Sigma</b> pour éviter la récidive.
+Analyste SOC orienté détection et réponse. De la qualification d'une alerte à sa résolution : recherche d'IOC et corrélation multi-sources sous <b>Splunk</b>, <b>Microsoft Sentinel</b> et <b>Elastic</b>, analyse réseau de PCAP (<b>Wireshark</b>, <b>Suricata</b>), forensique disque et mémoire (<b>Autopsy</b>, <b>Volatility</b>, <b>FTK</b>, <b>Zimmerman Tools</b>), reconstruction de la timeline d'attaque, mapping <b>MITRE ATT&CK</b> et rédaction de règles de détection <b>Sigma</b> pour éviter la récidive.
 </p>
 
 <p align="center">
