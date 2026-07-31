@@ -44,7 +44,6 @@ En recherche d'une <b>alternance dès septembre 2026</b>
 
 <p align="center"><b>SIEM &amp; Détection</b></p>
 <p align="center">
-  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/splunk.svg" height="45" alt="Splunk"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-entra-id.svg" height="45" alt="Splunk"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" height="45" alt="Elastic"/>&nbsp;&nbsp;&nbsp;
@@ -52,14 +51,6 @@ En recherche d'une <b>alternance dès septembre 2026</b>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" height="45" alt="Wazuh"/>
 </p>
 
-  
-  <img src="https://img.shields.io/badge/Elastic-00B4D8?style=flat-square&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-00B4D8?style=flat-square&logo=kibana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-00B4D8?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-00B4D8?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sigma-00B4D8?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YARA-00B4D8?style=flat-square&logoColor=white"/>
-</p>
 
 <p align="center"><b>Réseau &amp; Forensique</b></p>
 <p align="center">
