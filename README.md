@@ -46,6 +46,7 @@ En recherche d'une <b>alternance dès septembre 2026</b>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/splunk.svg" height="45" alt="Splunk"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-entra-id.svg" height="45" alt="Splunk"/>&nbsp;&nbsp;&nbsp;
+  <img src="sentinel.png" height="45" alt="Autopsy" height="45" alt="Kibana"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" height="45" alt="Elastic"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kibana.svg" height="45" alt="Kibana"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" height="45" alt="Wazuh"/>
