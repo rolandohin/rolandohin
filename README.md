@@ -54,7 +54,7 @@ En recherche d'une <b>alternance dès septembre 2026</b>
 
 <p align="center"><b>Réseau &amp; Forensique</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png"/>
   <img src="https://img.shields.io/badge/Suricata-EE3124?style=flat-square&logo=suricata&logoColor=white"/>
   <img src="https://img.shields.io/badge/Volatility-4B275F?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autopsy-2C7BB6?style=flat-square&logoColor=white"/>
