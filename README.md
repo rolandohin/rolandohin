@@ -58,6 +58,7 @@ En recherche d'une <b>alternance dès septembre 2026</b>
   <img src="volatility.png" height="45" alt="volatility" height="45" alt="Volatility"/>&nbsp;&nbsp;&nbsp;
   <img src="autopsy.png" height="45" alt="Autopsy" height="45" alt="autopsy"/>&nbsp;&nbsp;&nbsp;
   <img src="kapa.png" height="45" alt="Autopsy" height="45" alt="Kibana"/>
+  <img src="zimmerman.jpg" height="45" alt="Autopsy" height="45" alt="Kibana"/>
 </p>
 
 <p align="center"><b>Systèmes &amp; Scripting</b></p>
