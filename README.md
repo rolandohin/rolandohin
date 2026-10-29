@@ -24,12 +24,6 @@ Je m'intéresse particulièrement aux mécanismes internes de Windows, aux **ETW
 
 **Mon objectif : passer de l'analyse d'alertes à la compréhension des comportements adverses, puis transformer les résultats d'investigation en détections exploitables, contextualisées et reproductibles.**
 
-### Certifications
-
-- **BTL1 — Blue Team Level 1 :** obtenue
-- **HTB CDSA — Certified Defensive Security Analyst :** en préparation
-- **Microsoft SC-200 — Security Operations Analyst :** en préparation
-
 ### Opportunités
 
 Je recherche une **alternance ou un stage alterné de six mois** en SOC, CSIRT, DFIR, Threat Hunting ou Detection Engineering, selon un rythme de **trois semaines en entreprise et une semaine à l'école**.
